@@ -1,0 +1,5 @@
+name: echo 
+env: python:3.7
+python:
+  call: main:echo
+`
