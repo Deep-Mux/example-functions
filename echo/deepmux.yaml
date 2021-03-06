@@ -1,5 +1,4 @@
-name: echo 
-env: python:3.7
+name: echo
+env: python3.7
 python:
   call: main:echo
-`

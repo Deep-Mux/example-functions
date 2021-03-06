@@ -1,0 +1,5 @@
+name: mmdet
+env: python3.7-mmdetection-pytorch-1.6-cuda10.1 
+python:
+    call: main:main
+

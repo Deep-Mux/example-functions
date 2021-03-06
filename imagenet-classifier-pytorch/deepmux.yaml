@@ -1,5 +1,5 @@
-name: echo 
-env: python:3.7
+name: classifier
+env: python3.7
 python:
-  call: main:сlassify
-` requirements: requirements.txt
+  call: main:classify
+  requirements: requirements.txt
